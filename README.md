@@ -1,7 +1,7 @@
 ## Добро пожаловать на сайт Zara Беларусь.
 
 ---
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=ZARA+Беларусь)]
 ### Функции, включенные в этот проект
 
 ---
