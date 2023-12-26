@@ -1,0 +1,85 @@
+.SingleProduct .container {
+    padding: 3rem 0;
+    color: beige;
+}
+
+.SingleProduct .product_images {
+    display: flex;
+    align-items: center;
+}
+
+.SingleProduct .product-data {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.SingleProduct .product-data .product-data-warranty {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 1rem;
+}
+
+.SingleProduct .product-data .product-data-warranty .product-warranty-data {
+    text-align: center;
+}
+
+.SingleProduct .product-data .product-data-warranty .product-warranty-data .warranty-icon {
+    color: black;
+    background-color: rgba(220, 220, 220, 0.5);
+    border-radius: 50%;
+    width: 4rem;
+    height: 4rem;
+    padding: 0.6rem;
+}
+
+.SingleProduct .product-data .product-data-warranty .product-warranty-data p {
+    font-size: 1.4rem;
+    padding-top: 0.4rem;
+}
+
+.SingleProduct .product-data .product-data-price {
+    font-weight: bold;
+}
+
+.SingleProduct .product-data .product-data-real-price {
+    color: rgb(98 84 243);
+}
+
+.SingleProduct .product-data .product-data-info {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    font-size: 1.8rem;
+}
+
+.SingleProduct .product-data .product-data-info span {
+    font-weight: bold;
+}
+
+.SingleProduct .product-data hr {
+    max-width: 100%;
+    width: 90%;
+    border: 0.1rem solid #000;
+    color: red;
+}
+
+.SingleProduct .product-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 768px) {
+    .SingleProduct .container{
+        padding: 3rem 2.4rem;
+    }
+    .SingleProduct .main-screen img {
+        max-width: 50%;
+    }
+}

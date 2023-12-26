@@ -1,0 +1,63 @@
+.Form {
+  padding: 9rem 0 5rem 0;
+  text-align: center;
+}
+
+.titleForm {
+  color: rgb(24 24 29);
+
+  font-weight: 600;
+  margin-bottom: 6rem;
+  text-transform: capitalize;
+  white-space: normal;
+}
+
+.navbar-linkForm:link {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #212529;
+  transition: color 0.3s linear;
+}
+
+.navbar-linkForm:visited {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #212529;
+  transition: color 0.3s linear;
+}
+
+.navbar-linkForm:hover {
+  color: #8490ff;
+}
+
+.navbar-linkFrom:active {
+  color: #8490ff;
+}
+
+.containerForm {
+  margin-top: 6rem;
+}
+
+.singForm {
+  max-width: 50rem;
+  margin: auto;
+}
+
+.singFormInputs {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.singFormInputs input[type="submit"] {
+  cursor: pointer;
+  transition: all 0.2s;
+  margin: 0;
+}
+
+.singFormInputs input[type="submit"]:hover {
+  background-color: #fff;
+  border: 1px solid rgb(98 84 243);
+  color: rgb(98 84 243);
+  transform: scale(0.9);
+}

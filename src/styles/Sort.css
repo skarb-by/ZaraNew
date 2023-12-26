@@ -1,0 +1,41 @@
+.Sort {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5rem;
+}
+
+.Sort .sorting-list--grid {
+  display: flex;
+  gap: 2rem;
+}
+
+.Sort .sorting-list--grid .sort-btn {
+  padding: 0.8rem 1rem;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.Sort .sorting-list--grid .icon {
+  font-size: 1.6rem;
+}
+
+.Sort .sorting-list--grid .active {
+  background-color: #212529;
+  color: #fff;
+}
+
+.Sort .sort-selection .sort-selection--style {
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+.Sort .sort-selection .sort-selection--style .sort-select--option {
+  padding: 0.5rem 0;
+  cursor: pointer;
+  height: 2rem;
+  padding: 10px;
+
+}

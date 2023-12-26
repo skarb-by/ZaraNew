@@ -1,0 +1,761 @@
+{
+    "products": [
+        {
+            "id": "women1",
+            "name": "ДЖИНСЫ ZW BOOTCUT CONTOUR",
+            "view": "ДЖИНСЫ",
+            "price": 139.00,
+            "colors": [
+                "blue"
+            ],
+            "description": "Slim Fit-Flared Leg-Mid-rise.",
+            "description1": "ZW ZARA WOMAN JEANS.",
+            "description2": "Расклешенные джинсы со средней посадкой. Шлевки, облегающие сверху штанины. Классическая модель с пятью карманами, изготовленная из эластичной ткани для более комфортной посадки. Застежка-молния и пуговица.",
+            "category": "Женщины",
+            "featured": false,
+            "stock": 0,
+            "reviews": 16,
+            "stars": 3.8,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/women/jeans/1/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/women/jeans/1/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/women/jeans/1/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/women/jeans/1/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "id": "women2",
+            "name": "ДЖИНСЫ TRF STRAIGHT-LEG MID-RISE",
+            "view": "ДЖИНСЫ",
+            "price": 109.00,
+            "colors": [
+                "LightSkyBlue"
+            ],
+            "description": "MID-RISE-STRAIGHT-LEG-CROPPED.",
+            "description1": "Джинсы со средней посадкой.",
+            "description2": "Пять карманов, бесшовные нижние кромки. Застежка-молния и металлическая пуговица.",
+            "category": "Женщины",
+            "featured": true,
+            "stock": 11,
+            "reviews": 44,
+            "stars": 4.8,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/women/jeans/2/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/women/jeans/2/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/women/jeans/2/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/women/jeans/2/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "id": "women3",
+            "name": "РУБАШКА ОВЕРСАЙЗ ИЗ ПОПЛИНА",
+            "view": "РУБАШКИ",
+            "price": 99.99,
+            "colors": [
+                "red",
+                "black"
+            ],
+            "description": "Рубашка свободного кроя с воротником, длинными рукавами и манжетами. Необработанные кромки. Застегивается на пуговицы.",
+            "category": "Женщины",
+            "featured": true,
+            "stock": 2,
+            "reviews": 13,
+            "stars": 3.1,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/women/shirts/1/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/women/shirts/1/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/women/shirts/1/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/women/shirts/1/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "id": "women4",
+            "name": "АТЛАСНАЯ РУБАШКА",
+            "view": "РУБАШКИ",
+            "price": 119.99,
+            "colors": [
+                "MediumBlue"
+            ],
+            "description": "Рубашка с воротником и длинными рукавами. Застежка на пуговицы под планкой.",
+            "category": "Женщины",
+            "featured": true,
+            "stock": 2,
+            "reviews": 13,
+            "stars": 3.1,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/women/shirts/2/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/women/shirts/2/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/women/shirts/2/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/women/shirts/2/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "id": "women5",
+            "name": "ФУТБОЛКА CLEAN EFFECT",
+            "view": "ФУТБОЛКИ",
+            "price": 59.99,
+            "colors": [
+                "black",
+                "gray",
+                "BurlyWood"
+            ],
+            "description": "LOOSE FIT - ROUND NECK - NORMAL LENGTH - SHORT SLEEVES",
+            "description1": "Хлопковая футболка с круглым вырезом.",
+            "category": "Женщины",
+            "featured": false,
+            "stock": 10,
+            "reviews": 18,
+            "stars": 4.1,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/women/t-shirts/1/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/women/t-shirts/1/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/women/t-shirts/1/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/women/t-shirts/1/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "id": "women6",
+            "name": "ФУТБОЛКА С ДЛИННЫМИ РУКАВАМИ",
+            "view": "ФУТБОЛКИ",
+            "price": 59.99,
+            "colors": [
+                "black",
+                "gray"
+            ],
+            "description": "SLIM FIT - ROUND NECK - NORMAL LENGTH - LONG SLEEVES.",
+            "description1": "Футболка из мягкой ткани с круглым вырезом и длинными рукавами.",
+            "category": "Женщины",
+            "featured": false,
+            "stock": 11,
+            "reviews": 13,
+            "stars": 2.1,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/women/t-shirts/2/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/women/t-shirts/2/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/women/t-shirts/2/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/women/t-shirts/2/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "id": "men1",
+            "name": "ФУТБОЛКА MEDIUM WEIGHT",
+            "view": "ФУТБОЛКИ",
+            "price": 59.99,
+            "colors": [
+                "black",
+                "gray",
+                "blue",
+                "Sienna"
+            ],
+            "description": "Футболка классического кроя с круглым вырезом и короткими рукавами.",
+            "category": "Мужчины",
+            "featured": true,
+            "stock": 11,
+            "reviews": 13,
+            "stars": 2.1,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/men/t-shirts/1/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/men/t-shirts/1/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/men/t-shirts/1/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/men/t-shirts/1/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "id": "men2",
+            "name": "ФУТБОЛКА MEDIUM WEIGHT",
+            "view": "ФУТБОЛКИ",
+            "price": 59.99,
+            "colors": [
+                "black",
+                "gray",
+                "blue",
+                "Sienna"
+            ],
+            "description": "Футболка классического кроя с круглым вырезом и короткими рукавами.",
+            "category": "Мужчины",
+            "featured": true,
+            "stock": 11,
+            "reviews": 13,
+            "stars": 2.1,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/men/t-shirts/2/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/men/t-shirts/2/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/men/t-shirts/2/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/men/t-shirts/2/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "id": "men3",
+            "name": "РУБАШКА ИЗ 100% ЛЬНА",
+            "view": "РУБАШКИ",
+            "price": 159.99,
+            "colors": [
+                "LavenderBlush",
+                "blue"
+            ],
+            "description": "Рубашка классического кроя изо льна. Широкий воротник, длинные рукава с манжетами на пуговицах. Застегивается спереди на пуговицы.",
+            "category": "Мужчины",
+            "featured": true,
+            "stock": 0,
+            "reviews": 13,
+            "stars": 2.1,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/men/shirts/1/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/men/shirts/1/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/men/shirts/1/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/men/shirts/1/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "id": "men4",
+            "name": "РУБАШКА С БЛЕСТЯЩЕЙ ОТДЕЛКОЙ",
+            "view": "РУБАШКИ",
+            "price": 199.99,
+            "colors": [
+                "black"
+            ],
+            "description": "Рубашка relaxed-fit из блестящей ткани. Широкий воротник, длинные рукава. Манжеты с пуговицами. Застегивается на пуговицы.",
+            "category": "Мужчины",
+            "featured": true,
+            "stock": 2,
+            "reviews": 10,
+            "stars": 3.1,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/men/shirts/2/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/men/shirts/2/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/men/shirts/2/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/men/shirts/2/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "id": "men5",
+            "name": "ДЖИНСЫ RELAXED FIT",
+            "view": "ДЖИНСЫ",
+            "price": 199.99,
+            "colors": [
+                "blue"
+            ],
+            "description": "Джинсы свободного кроя из ткани с эффектом потертости. Пять карманов, контрастная вышивка на поясе и по бокам. Застежка-молния и пуговица спереди.",
+            "category": "Мужчины",
+            "featured": false,
+            "stock": 2,
+            "reviews": 10,
+            "stars": 3.1,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/men/jeans/1/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/men/jeans/1/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/men/jeans/1/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/men/jeans/1/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "id": "men6",
+            "name": "ДЖИНСЫ STRAIGHT FIT",
+            "view": "ДЖИНСЫ",
+            "price": 139.99,
+            "colors": [
+                "black",
+                "Silver"
+            ],
+            "description": "Джинсы прямого кроя из ткани с эффектом потертости. Пять карманов. Застегиваются на пуговицу.",
+            "category": "Мужчины",
+            "featured": true,
+            "stock": 11,
+            "reviews": 10,
+            "stars": 3.1,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/men/jeans/2/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/men/jeans/2/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/men/jeans/2/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/men/jeans/2/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "id": "children1",
+            "name": "ДЖИНСЫ КЛАССИЧЕСКОГО КРОЯ",
+            "view": "ДЖИНСЫ",
+            "price": 95.99,
+            "colors": [
+                "blue"
+            ],
+            "description": "Джинсы с регулируемым изнутри поясом. Застегиваются на пуговицу. Передние карманы, задние накладные карманы, отвороты снизу.",
+            "category": "Дети",
+            "featured": true,
+            "stock": 10,
+            "reviews": 19,
+            "stars": 4.1,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/children/jeans/1/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/children/jeans/1/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/children/jeans/1/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/children/jeans/1/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "id": "children2",
+            "name": "ДЖИНСЫ THE REAL LOOSE",
+            "view": "ДЖИНСЫ",
+            "price": 95.99,
+            "colors": [
+                "blue"
+            ],
+            "description": "Джинсы свободного кроя с застежкой на пуговицу. Регулируемая с внутренней стороны талия, пять карманов.",
+            "category": "Дети",
+            "featured": true,
+            "stock": 11,
+            "reviews": 10,
+            "stars": 3.1,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/children/jeans/2/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/children/jeans/2/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/children/jeans/2/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/children/jeans/2/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "id": "children3",
+            "name": "ФУТБОЛКА THE NOTORIOUS B.I.G.",
+            "view": "ФУТБОЛКИ",
+            "price": 49.99,
+            "colors": [
+                "black"
+            ],
+            "description": "Футболка с круглым вырезом и длинными рукавами. Принты THE NOTORIOUS B.I.G. © BROOKLYN MINT на груди и на спине.",
+            "category": "Дети",
+            "featured": false,
+            "stock": 7,
+            "reviews": 25,
+            "stars": 5.0,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/children/t-shirts/1/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/children/t-shirts/1/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/children/t-shirts/1/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/children/t-shirts/1/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "id": "children4",
+            "name": "ФУТБОЛКА ИЗ МЯГКОЙ ТКАНИ",
+            "view": "ФУТБОЛКИ",
+            "price": 49.99,
+            "colors": [
+                "DimGrey"
+            ],
+            "description": "Футболка из специальной теплой ткани с длинными рукавами. Круглый вырез, контрастная деталь.",
+            "category": "Дети",
+            "featured": true,
+            "stock": 11,
+            "reviews": 10,
+            "stars": 3.1,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/children/t-shirts/2/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/children/t-shirts/2/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/children/t-shirts/2/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/children/t-shirts/2/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "id": "children5",
+            "name": "ВЕЛЬВЕТОВАЯ КУРТКА-РУБАШКА",
+            "view": "РУБАШКИ",
+            "price": 109.99,
+            "colors": [
+                "SaddleBrown"
+            ],
+            "description": "Куртка-рубашка с воротником и длинными рукавами. Застегивается на пуговицы. Нашивка сбоку.",
+            "category": "Дети",
+            "featured": false,
+            "stock": 11,
+            "reviews": 10,
+            "stars": 3.1,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/children/shirts/1/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/children/shirts/1/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/children/shirts/1/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/children/shirts/1/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "id": "children6",
+            "name": "РУБАШКА ИЗ ПОПЛИНА",
+            "view": "РУБАШКИ",
+            "price": 95.99,
+            "colors": [
+                "DimGrey"
+            ],
+            "description": "Рубашка с воротником и длинными рукавами. Застегивается на пуговицы. Нагрудный накладной карман с пуговицей.",
+            "description1": "Рост модели: 140 см. На модели размер 9–10",
+            "category": "Дети",
+            "featured": true,
+            "stock": 20,
+            "reviews": 33,
+            "stars": 4.9,
+            "image": [
+                {
+                    "id": "randomid1",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/children/shirts/2/1.jpg",
+                    "filename": "prod-1.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid2",
+                    "url": " https://raw.githubusercontent.com/skarb-by/images/main/db/children/shirts/2/2.jpg",
+                    "filename": "prod-2.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid3",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/children/shirts/2/3.jpg",
+                    "filename": "prod-3.png",
+                    "type": "image/png"
+                },
+                {
+                    "id": "randomid4",
+                    "url": "https://raw.githubusercontent.com/skarb-by/images/main/db/children/shirts/2/4.jpg",
+                    "filename": "prod-4.png",
+                    "type": "image/png"
+                }
+            ]
+        }
+    ]
+}

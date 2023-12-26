@@ -1,0 +1,119 @@
+ .Footer {
+   margin: 0;
+ }
+
+ .Footer .contact-short {
+   max-width: 60vw;
+   margin: auto;
+   padding: 5rem 10rem;
+   background-color: #dee5f3;
+   border-radius: 1rem;
+   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+   transform: translateY(50%);
+ }
+
+ .Footer .contact-short .btn {
+   background-color: rgb(98 84 243);
+ }
+
+ .Footer .contact-short .btn a {
+   color: #fff;
+ }
+
+ .Footer .contact-short .grid div:last-child {
+   justify-self: end;
+   align-self: center;
+ }
+
+ .Footer footer {
+   padding: 14rem 0 9rem 0;
+   background-color: #0a1435;
+ }
+
+ .Footer footer h3 {
+   color: #ffffff;
+   margin-bottom: 2.4rem;
+ }
+
+ .Footer footer p {
+   color: #fff;
+ }
+
+ .Footer footer .footer-social--icons {
+   display: flex;
+   gap: 2rem;
+   justify-content: center;
+ }
+
+ .Footer footer .footer-social--icons div {
+   padding: 1rem;
+   border-radius: 50%;
+   border: 2px solid #fff;
+ }
+
+ .Footer footer .footer-social--icons div:hover {
+   border: 2px solid #8490ff;
+   cursor: pointer;
+   transition: color 0.3s linear;
+ }
+
+ .Footer footer .footer-social--icons .icons {
+   color: #fff;
+   font-size: 2.4rem;
+   position: relative;
+   cursor: pointer;
+ }
+
+ .Footer footer .footer-social--icons .icons:hover {
+   color: #8490ff;
+   transition: color 0.3s linear;
+ }
+
+ .Footer .footer-bottom--section {
+   padding-top: 9rem;
+ }
+
+ .Footer .footer-bottom--section hr {
+   margin-bottom: 2rem;
+   color: #ffffff;
+   height: 0.1px;
+ }
+
+ input[type="submit"] {
+   cursor: pointer;
+   transition: all 0.2s;
+   margin-left: 20px;
+ }
+
+ input[type="submit"]:hover {
+   background-color: #fff;
+   border: 1px solid rgb(98 84 243);
+   color: rgb(98 84 243);
+   transform: scale(0.9);
+ }
+
+ @media (max-width: 768px) {
+   .Footer .contact-short {
+     max-width: 80vw;
+     margin: 4.8rem auto;
+     transform: translateY(0%);
+     text-align: center;
+   }
+
+   .Footer .contact-short .grid div:last-child {
+     justify-self: center;
+   }
+
+   .Footer footer {
+     padding: 9rem 0 9rem 0;
+   }
+
+   .Footer .footer-bottom--section {
+     padding-top: 4.8rem;
+   }
+
+   input[type="submit"] {
+     margin: 0;
+   }
+
+ }

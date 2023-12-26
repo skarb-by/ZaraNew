@@ -1,0 +1,63 @@
+.ContactForm {
+    padding: 9rem 0 5rem 0;
+    text-align: center;
+}
+
+.titleContactForm {
+    color: rgb(24 24 29);
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 6rem;
+    text-transform: uppercase;
+    white-space: normal;
+}
+
+.navbar-linkContactForm:link {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #212529;
+    transition: color 0.3s linear;
+}
+
+.navbar-linkContactForm:visited {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #212529;
+    transition: color 0.3s linear;
+}
+
+.navbar-linkContactForm:hover {
+    color: #8490ff;
+}
+
+.navbar-linkContactForm:active {
+    color: #8490ff;
+}
+
+.containerContactForm {
+    margin-top: 6rem;
+}
+
+.divContactForm {
+    max-width: 50rem;
+    margin: auto;
+}
+
+.inputsContactForm {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.inputsContactForm input[type="submit"] {
+    cursor: pointer;
+    margin: 0;
+    transition: all 0.2s;
+}
+
+.inputsContactForm input[type="submit"]:hover {
+    background-color: #fff;
+    border: 1px solid rgb(98 84 243);
+    color: rgb(98 84 243);
+    transform: scale(0.9);
+}

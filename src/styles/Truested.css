@@ -1,0 +1,30 @@
+.Truested {
+  padding: 1px 0;
+  background-color: #dee5f3;
+}
+
+.Truested img {
+  min-width: 10rem;
+  height: 500px;
+}
+
+.slide {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.brand-section-slider {
+  margin-top: 3.2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+
+@media (max-width: 768px) {
+
+  .Truested img {
+    min-width: 10rem;
+    height: 300px;
+  }
+}

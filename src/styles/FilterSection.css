@@ -1,0 +1,105 @@
+.FilterSection {
+    padding: 5rem 0;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.FilterSection h3 {
+    padding: 2rem 0;
+    font-size: bold;
+}
+
+.FilterSection .filter-search input {
+    padding: 0.6rem 1rem;
+    width: 80%;
+}
+
+.FilterSection .filter-category div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.4rem;
+}
+
+.FilterSection .filter-category div button {
+    border: none;
+    background-color: #fff;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+
+.FilterSection .filter-category div button:hover {
+    color: rgb(98 84 243);
+    transition: all 0.5s linear;
+}
+
+.FilterSection .filter-category div .active {
+    border-bottom: 1px solid #000;
+    color: rgb(98 84 243);
+}
+
+.FilterSection .filter-view--select {
+    padding: 0.3rem 1.2rem;
+    font-size: 1.6rem;
+    color: rgba(29, 29, 29, .8);
+    text-transform: capitalize;
+}
+
+.FilterSection .filter-color-style {
+    display: flex;
+    justify-content: center;
+}
+
+.FilterSection .color-all--style {
+    background-color: transparent;
+    text-transform: capitalize;
+    border: none;
+    cursor: pointer;
+}
+
+.FilterSection .btnStyle {
+    width: 2rem;
+    height: 2rem;
+    background-color: #000;
+    border-radius: 50%;
+    margin-left: 1rem;
+    border: none;
+    outline: none;
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.FilterSection .btnStyle:hover {
+    opacity: 1;
+    transition: all 0.5s linear;
+}
+
+.FilterSection .active {
+    opacity: 1;
+}
+
+.FilterSection .checkStyle {
+    font-size: 1rem;
+    color: #fff;
+}
+
+.FilterSection .filter_price input {
+    margin: 0.5rem 0 1rem 0;
+    padding: 0;
+    box-shadow: none;
+    cursor: pointer;
+}
+
+.FilterSection .filter-shipping {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.FilterSection .filter-clear .btn {
+    background-color: #ec7063;
+    color: #fff;
+    margin: 0;
+    border: 0.1rem solid #ec7063;
+}

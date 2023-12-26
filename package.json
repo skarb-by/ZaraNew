@@ -1,0 +1,65 @@
+{
+  "name": "zara",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@formspree/react": "^2.5.1",
+    "@reduxjs/toolkit": "^2.0.1",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "animate.css": "^4.1.1",
+    "axios": "^1.6.2",
+    "eslint-plugin-react-hooks": "^5.0.0-canary-6c7b41da3-20231123",
+    "events": "^3.3.0",
+    "express": "^4.18.2",
+    "firebase": "^10.7.1",
+    "json-server": "^0.17.4",
+    "react": "^18.2.0",
+    "react-alice-carousel": "^2.8.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.12.0",
+    "react-redux": "^9.0.1",
+    "react-router-dom": "^6.20.1",
+    "react-scripts": "5.0.1",
+    "redux": "^5.0.0",
+    "styled-components": "^6.1.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "serve": "json-server --host 127.0.0.2 --port 4000 --watch ./data/data.json",
+    "start": "cross-env PORT=4000 HOST=127.0.0.1 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.23.0",
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.6",
+    "@babel/preset-react": "^7.23.3",
+    "babel-jest": "^29.7.0",
+    "cross-env": "^7.0.3",
+    "jest": "^27.5.1",
+    "prop-types": "^15.8.1",
+    "react-test-renderer": "^18.2.0"
+  }
+}

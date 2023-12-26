@@ -1,0 +1,105 @@
+.ListView {
+  padding: 3rem 0;
+}
+
+.ListView .container {
+  max-width: 120rem;
+}
+
+.ListView .grid {
+  gap: 3.2rem;
+}
+
+.ListView figure {
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.5s linear;
+}
+
+.ListView figure::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: all 0.2s linear;
+  cursor: pointer;
+}
+
+.ListView figure:hover::after {
+  width: 100%;
+}
+
+.ListView figure:hover img {
+  transform: scale(1.2);
+}
+
+.ListView figure img {
+  max-width: 85%;
+  margin-top: 1.5rem;
+
+  transition: all 0.2s linear;
+}
+
+.ListView .card {
+  border: 0.1rem solid rgb(170 170 170 / 40%);
+}
+
+
+.ListView .card .card-data {
+  padding: 0 2rem;
+}
+
+.ListView .card h3 {
+  margin: 2rem 0;
+  font-weight: 300;
+  font-size: 2.4rem;
+  text-transform: capitalize;
+}
+
+.ListView .card .btn {
+  margin: 2rem 0;
+  background-color: rgb(0 0 0 / 0%);
+  border: 0.1rem solid rgb(98 84 243);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(98 84 243);
+
+}
+
+.ListView .card .btn:hover {
+  background-color: rgb(98 84 243);
+
+}
+
+.ListView .card .btn:hover a {
+  color: #fff;
+}
+
+.ListView .card .btn a {
+  color: rgb(98 84 243);
+  font-size: 1.4rem;
+}
+
+.ListView .card .btn a {
+  color: rgb(98 84 243);
+  font-size: 1.4rem;
+}
+
+.ListView .btn-main .btn:hover {
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .ListView {
+    text-align: -webkit-center;
+  }
+
+}
