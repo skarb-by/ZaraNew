@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 import { Button } from "../styles/Button";
 import "../styles/HeroSection.css";
 const HeroSection = ({ myData }) => {
-  const {name} = myData;
+  const {name } = myData;
   return (
     <section className="HeroSection">
       <div className="container">
@@ -35,7 +35,7 @@ const HeroSection = ({ myData }) => {
           </div>
           <div className="hero-section-image">
             <figure>
-              <img
+              <img 
                 src="https://raw.githubusercontent.com/skarb-by/images/main/hero.jpg"
                 alt="hero"
                 className="img-style"
